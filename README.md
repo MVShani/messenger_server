@@ -1,4 +1,7 @@
-# messenger_server
+# Back-end приложение для мессенджера на Python
+
 Back-end for messenger
 
 Back-end приложение для мессенджера
+
+Разработано длягодаря информации полученной на интенсиве от портала skillbox.ru
